@@ -1,0 +1,35 @@
+body {
+    background-color: #f5f5f5;
+}
+
+.brand-logo {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.tologin {
+    background-color: white;
+    width: 40%;
+    margin-top: 3%;
+    margin-bottom: 5%;
+    border: 3px solid white;
+    border-radius: 22px;
+    padding: 50px 50px 80px 50px;
+}
+
+.btn {
+    padding: 5px 20px;
+}
+
+.fas {
+    width: 15px;
+}
+
+.alert {
+    font-size: 14px;
+}
+
+.tombol {
+    font-size: 12px;
+    padding: 10px 0;
+}

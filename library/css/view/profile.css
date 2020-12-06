@@ -1,0 +1,163 @@
+body {
+    background-color: white;
+}
+
+#logo_img {
+    width: 60px;
+    height: 60px;
+}
+
+.navbar {
+    background-color: white;
+}
+
+.nav-item {
+    margin-left: 24px;
+}
+
+.nav-item-profile {
+    margin-left: 5px;
+}
+
+.nav-link {
+    color: #0096C7 !important;
+}
+
+.vertical-divider {
+    margin-left: 24px;
+    border-right: 1px solid gray;
+}
+
+#profile {
+    width: 30px;
+    height: 30px;
+}
+
+.btn-primary {
+    margin-left: 24px;
+}
+
+.card {
+    border-radius: 22px;
+    padding: 5px;
+    padding-bottom: 15px;
+    border: 1px solid #e3e3e399;
+    box-shadow: -1px 5px 10px -5px rgba(102, 102, 102, 0.75);
+}
+
+.status-paid {
+    background: #43f3aa;
+    display: inline;
+    padding: 8px;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    float: right;
+}
+
+.status-paid-link {
+    text-decoration: none;
+    color: #0a965c;
+}
+
+.status-paid-link:hover {
+    text-decoration: none;
+    color: #0a965c;
+}
+
+.status-unpaid {
+    background: #ff727e;
+    display: inline;
+    padding: 8px;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    float: right;
+}
+
+.status-unpaid-link {
+    text-decoration: none;
+    color: #9b101c;
+}
+
+.status-unpaid-link:hover {
+    text-decoration: none;
+    color: #9b101c;
+}
+
+.card-class {
+    background: #ADE8F4;
+    display: inline;
+    padding: 8px;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.card-class-link {
+    text-decoration: none;
+    color: #0096C7;
+}
+
+.card-class-link:hover {
+    text-decoration: none;
+    color: #0096C7;
+}
+
+.card-title-link {
+    text-decoration: none;
+    color: #0096C7;
+}
+
+.card-title-link:hover {
+    text-decoration: none;
+    color: #0096C7;
+}
+
+.card-title-others {
+    font-weight: bold;
+}
+
+.card-title-link-others {
+    text-decoration: none;
+    color: black;
+}
+
+.card-title-link-others:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.card-text-link {
+    text-decoration: none;
+    color: black;
+}
+
+.card-text-link:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.author-img {
+    width: 15%;
+    height: 15%;
+}
+
+.box-shadow  {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .03);
+}
+
+.footer {
+    background-color: white;
+    font-size: 14px;
+}
+
+.footer-item {
+    text-decoration: none;
+    color: black;
+}
+
+.footer-logo {
+    width: 4%;
+    height: 63%;
+}
